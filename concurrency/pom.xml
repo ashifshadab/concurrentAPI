@@ -15,5 +15,6 @@
 	<modules>
 		<module>Semaphore</module>
 		<module>Notes</module>
+		<module>Mutex</module>
 	</modules>
 </project>
