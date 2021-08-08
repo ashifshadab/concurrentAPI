@@ -14,5 +14,6 @@
 	</properties>
 	<modules>
 		<module>Semaphore</module>
+		<module>Notes</module>
 	</modules>
 </project>
