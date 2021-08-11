@@ -58,3 +58,17 @@
 /concurrency/Mutex/target/classes/com/ashifshadab/SequenceGenerator.class
 /concurrency/Mutex/target/classes/com/ashifshadab/Task.class
 /concurrency/Mutex/target/classes/com/ashifshadab/TestMutex.class
+/concurrency/CountDownLatch/.attach_pid20947
+/concurrency/CountDownLatch/.attach_pid21475
+/concurrency/CountDownLatch/.classpath
+/concurrency/CountDownLatch/.project
+/concurrency/CountDownLatch/.settings/org.eclipse.jdt.apt.core.prefs
+/concurrency/CountDownLatch/.settings/org.eclipse.jdt.core.prefs
+/concurrency/CountDownLatch/.settings/org.eclipse.m2e.core.prefs
+/concurrency/CountDownLatch/target/classes/META-INF/MANIFEST.MF
+/concurrency/CountDownLatch/target/classes/META-INF/maven/com.ashifshadab/CountDownLatch/pom.properties
+/concurrency/CountDownLatch/target/classes/META-INF/maven/com.ashifshadab/CountDownLatch/pom.xml
+/concurrency/CountDownLatch/target/classes/com/ashifshadab/basicExample1/Task.class
+/concurrency/CountDownLatch/target/classes/com/ashifshadab/basicExample1/TestCountDownLatch.class
+/concurrency/CountDownLatch/target/classes/com/ashifshadab/basicExample2/Task.class
+/concurrency/CountDownLatch/target/classes/com/ashifshadab/basicExample2/TestCountDownLatch.class

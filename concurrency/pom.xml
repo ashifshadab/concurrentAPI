@@ -16,5 +16,6 @@
 		<module>Semaphore</module>
 		<module>Notes</module>
 		<module>Mutex</module>
+		<module>CountDownLatch</module>
 	</modules>
 </project>
