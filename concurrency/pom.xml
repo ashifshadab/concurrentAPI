@@ -17,5 +17,6 @@
 		<module>Notes</module>
 		<module>Mutex</module>
 		<module>CountDownLatch</module>
+		<module>CyclicBarrier</module>
 	</modules>
 </project>
