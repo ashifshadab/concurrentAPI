@@ -84,3 +84,16 @@
 /concurrency/CyclicBarrier/target/classes/com/ashifshadab/basicExamle1/Task.class
 /concurrency/CyclicBarrier/target/classes/com/ashifshadab/basicExamle1/TestCyclicBarrier.class
 /concurrency/CyclicBarrier/target/classes/com/ashifshadab/basicExamle1/TestReusedCyclicBarrier.class
+/concurrency/Exchanger/.classpath
+/concurrency/Exchanger/.project
+/concurrency/Exchanger/.settings/org.eclipse.jdt.apt.core.prefs
+/concurrency/Exchanger/.settings/org.eclipse.jdt.core.prefs
+/concurrency/Exchanger/.settings/org.eclipse.m2e.core.prefs
+/concurrency/Exchanger/target/classes/META-INF/MANIFEST.MF
+/concurrency/Exchanger/target/classes/META-INF/maven/com.ashifshadab/Exchanger/pom.properties
+/concurrency/Exchanger/target/classes/META-INF/maven/com.ashifshadab/Exchanger/pom.xml
+/concurrency/Exchanger/target/classes/com/ashifshadab/basicExample1/MakeString.class
+/concurrency/Exchanger/target/classes/com/ashifshadab/basicExample1/TestExchanger.class
+/concurrency/Exchanger/target/classes/com/ashifshadab/basicExample1/UseString.class
+/concurrency/Exchanger/target/classes/com/ashifshadab/basicExample2/Exchange.class
+/concurrency/Exchanger/target/classes/com/ashifshadab/basicExample2/TestExchanger.class

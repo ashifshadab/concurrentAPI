@@ -18,5 +18,6 @@
 		<module>Mutex</module>
 		<module>CountDownLatch</module>
 		<module>CyclicBarrier</module>
+		<module>Exchanger</module>
 	</modules>
 </project>
