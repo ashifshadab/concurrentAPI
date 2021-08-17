@@ -97,3 +97,16 @@
 /concurrency/Exchanger/target/classes/com/ashifshadab/basicExample1/UseString.class
 /concurrency/Exchanger/target/classes/com/ashifshadab/basicExample2/Exchange.class
 /concurrency/Exchanger/target/classes/com/ashifshadab/basicExample2/TestExchanger.class
+/concurrency/Phaser/.classpath
+/concurrency/Phaser/.project
+/concurrency/Phaser/.settings/org.eclipse.jdt.apt.core.prefs
+/concurrency/Phaser/.settings/org.eclipse.jdt.core.prefs
+/concurrency/Phaser/.settings/org.eclipse.m2e.core.prefs
+/concurrency/Phaser/target/classes/META-INF/MANIFEST.MF
+/concurrency/Phaser/target/classes/META-INF/maven/com.ashifshadab/Phaser/pom.properties
+/concurrency/Phaser/target/classes/META-INF/maven/com.ashifshadab/Phaser/pom.xml
+/concurrency/Phaser/target/classes/com/ashifshadab/basicExample1/Task.class
+/concurrency/Phaser/target/classes/com/ashifshadab/basicExample1/TestPhaser.class
+/concurrency/Phaser/target/classes/com/ashifshadab/basicExample2/MyPhaser.class
+/concurrency/Phaser/target/classes/com/ashifshadab/basicExample2/Task.class
+/concurrency/Phaser/target/classes/com/ashifshadab/basicExample2/TestPhaser.class

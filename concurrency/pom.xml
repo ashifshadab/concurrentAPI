@@ -19,5 +19,6 @@
 		<module>CountDownLatch</module>
 		<module>CyclicBarrier</module>
 		<module>Exchanger</module>
+		<module>Phaser</module>
 	</modules>
 </project>
