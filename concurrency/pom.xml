@@ -20,5 +20,7 @@
 		<module>CyclicBarrier</module>
 		<module>Exchanger</module>
 		<module>Phaser</module>
+		<module>Executor</module>
+		<module>Lock</module>
 	</modules>
 </project>
