@@ -22,5 +22,11 @@
 		<module>Phaser</module>
 		<module>Executor</module>
 		<module>Lock</module>
+		<module>atomic</module>
+		<module>threadLocalRandom</module>
+		<module>executorService</module>
+		<module>ThreadPool</module>
+		<module>FuturesAndCallables</module>
+		<module>ForkJoin</module>
 	</modules>
 </project>
