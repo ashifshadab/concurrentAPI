@@ -28,5 +28,7 @@
 		<module>ThreadPool</module>
 		<module>FuturesAndCallables</module>
 		<module>ForkJoin</module>
+		<module>ThreadFactory</module>
+		<module>ExecutorCompletionService</module>
 	</modules>
 </project>
